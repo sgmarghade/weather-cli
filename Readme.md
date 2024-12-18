@@ -43,9 +43,7 @@ API_KEY=your_api_key node index.js
 # Example
 API_KEY=a1b2c3d4e5f6g7h8 node index.js
 ```
-# Contributing to Weather CLI
-
-## 🤝 Welcome Contributors!
+# 🤝 Welcome Contributors!
 
 First off, thank you for considering contributing to the Weather CLI project! It's people like you that make the open-source community such an amazing place to learn, inspire, and create.
 
